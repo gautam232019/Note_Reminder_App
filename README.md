@@ -11,3 +11,5 @@ A basic app of reminder with MVVM architecture that has following components-</b
 <br>
 <img src="https://user-images.githubusercontent.com/56038800/90414087-f6fdcd80-e0cc-11ea-8392-c3290e79614c.jpeg" width="180">
 </br>
+<img src="https://user-images.githubusercontent.com/56038800/90414391-5c51be80-e0cd-11ea-9d0e-6ad37b5c6258.jpeg" width="180">
+</br>
