@@ -6,5 +6,5 @@ A basic app of reminder with MVVm architecture that has following components-</b
 4-alarm manager</br>
 5-swipe to delete note and drawable menus
 </br>
-<img src="https://user-images.githubusercontent.com/56038800/90413615-54454f00-e0cc-11ea-815d-0b040330b2d9.jpeg" width="80">
+<img src="https://user-images.githubusercontent.com/56038800/90413615-54454f00-e0cc-11ea-815d-0b040330b2d9.jpeg" width="180">
 </br>
